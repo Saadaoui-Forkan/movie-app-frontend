@@ -1,0 +1,10 @@
+.error {
+    background-color: rgb(236, 40, 40);
+    color: #fff;
+    text-align: center;
+    margin: 10px auto;
+}
+
+.error-text {
+    padding: 10px 5px;
+}
