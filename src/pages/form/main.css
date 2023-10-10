@@ -5,7 +5,7 @@
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
-body {
+.form {
   background: #2980b9;
   height: 100vh;
 }

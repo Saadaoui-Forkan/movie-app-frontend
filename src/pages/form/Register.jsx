@@ -32,7 +32,7 @@ function Register() {
   }
 
   return (
-    <div className="center">
+    <div className="center form">
       <form onSubmit={(e)=>handleSubmit(e)}>
         {error && <Error error={error}/>}
         <div className="txt_field">
